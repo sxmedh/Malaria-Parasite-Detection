@@ -1,0 +1,8 @@
+(Keep same names and same case)
+
+Malaria
+	|main
+
+	|data
+		|Parasitized
+		|Uninfected
