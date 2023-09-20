@@ -1,8 +1,8 @@
 (Keep same names and same case)
 
-Malaria
-	|main
+Malaria (Folder)
+	|main (file .ipynb)
 
-	|data
-		|Parasitized
-		|Uninfected
+	|data (Folder)
+		|Parasitized (Folder)
+		|Uninfected (Folder)
