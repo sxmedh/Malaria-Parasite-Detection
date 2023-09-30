@@ -8,4 +8,4 @@ All libraries used untill now are mentioned in libraries.txt
 
 https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria
 
-Download->Extract->Keep only 2 folders (Parasitized, Uninfected) out of 3.
+Download->Extract->Keep only 2 folders (Parasitized, Uninfected) out of 3 (ignore/delete cell_images).
